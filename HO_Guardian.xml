@@ -3,5 +3,9 @@
 <InnerSpaceSettings>
     <Set Name="Disabled">
         <Setting Name="Overpower"></Setting>
+        <Setting Name="Subtle Strikes"></Setting>
+        <Setting Name="Reckless Aide"></Setting>
+        <Setting Name="Rescue"></Setting>
+        <Setting Name="Intercept"></Setting>
     </Set>
 </InnerSpaceSettings>
