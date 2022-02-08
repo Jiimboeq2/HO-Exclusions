@@ -16,3 +16,5 @@ While some long term plans have this list be managed by a UI.. those are exactly
 Folder struction: C:\Games\Innerspace\Scripts\EQ2OgreBot\HeroicOpportunity\
 Files are: HO_class.xml, IE: HO_guardian.xml
 
+
+see XMLs in repo for examples.
