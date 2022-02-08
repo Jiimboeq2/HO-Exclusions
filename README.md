@@ -1,7 +1,5 @@
 - HO-Exclusions
-- 
 - TY Kannkor for being the MVP.
-- 
 - If you have any more exclusions to be added please commit them directly here, or send me a message in discord @Jiimbo#6969.
 
 
