@@ -1,5 +1,7 @@
-# HO-Exclusions
-#TY Kannkor for being the MVP.
+HO-Exclusions
+TY Kannkor for being the MVP.
+- If you have any more exclusions to be added please commit them directly here, or send me a message in discord @Jiimbo#6969.
+
 
 How to use the new HO features in OgreBot.
 HO Start - This means starting a HO when there is not one active. Example: Fighter's is called Fighting Chance
