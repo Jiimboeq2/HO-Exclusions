@@ -1,4 +1,4 @@
--Folder struction: C:\Games\Innerspace\Scripts\EQ2OgreBot\HeroicOpportunity\
+Folder struction: C:\Games\Innerspace\Scripts\EQ2OgreBot\HeroicOpportunity\
 Files are: HO_class.xml, IE: HO_guardian.xml
 see XMLs in repo for examples.
 - 
