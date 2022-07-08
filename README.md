@@ -26,3 +26,5 @@ Files are: HO_class.xml, IE: HO_guardian.xml
 </InnerSpaceSettings>
 
 The "names" are all short names: IE: Overpower, NOT Overpower IV 
+
+take a look at any of the uploaded files as example if needed :)
