@@ -2,7 +2,7 @@ Folder struction: C:\Games\Innerspace\Scripts\EQ2OgreBot\HeroicOpportunity\
 Files are: HO_class.xml, IE: HO_guardian.xml
 see XMLs in repo for examples.
  HO-Exclusions
-If you have any more exclusions to be added please commit them directly here, or send me a message in discord @Jiimbo#6969.
+If you have any more exclusions to be added please commit them directly here
 
 How to use the new HO features in OgreBot.
 HO Start - This means starting a HO when there is not one active. Example: Fighter's is called Fighting Chance
